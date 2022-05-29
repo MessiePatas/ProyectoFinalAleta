@@ -1,0 +1,102 @@
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\appsettings.json
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.staticwebassets.runtime.json
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.exe
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.deps.json
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.runtimeconfig.json
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.dll
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.pdb
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.AssemblyInfo.cs
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.RazorAssemblyInfo.cache
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.RazorAssemblyInfo.cs
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\scopedcss\bundle\frontend Biblioteca.styles.css
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.csproj.CopyComplete
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.dll
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\refint\frontend Biblioteca.dll
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.pdb
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.genruntimeconfig.cache
+C:\Users\Santiago Contreras\source\repos2\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\ref\frontend Biblioteca.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.AssemblyInfo.cs
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.RazorAssemblyInfo.cache
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.RazorAssemblyInfo.cs
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\appsettings.json
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.staticwebassets.runtime.json
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.exe
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.deps.json
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.runtimeconfig.json
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.pdb
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\scopedcss\bundle\frontend Biblioteca.styles.css
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.csproj.CopyComplete
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\refint\frontend Biblioteca.dll
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.pdb
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.genruntimeconfig.cache
+C:\Users\Santiago Contreras\source\repos\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\ref\frontend Biblioteca.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\appsettings.json
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.staticwebassets.runtime.json
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.exe
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.deps.json
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.runtimeconfig.json
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\frontend Biblioteca.pdb
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.csproj.AssemblyReference.cache
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.AssemblyInfoInputs.cache
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.AssemblyInfo.cs
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.RazorAssemblyInfo.cache
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.RazorAssemblyInfo.cs
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\scopedcss\bundle\frontend Biblioteca.styles.css
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.csproj.CopyComplete
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\refint\frontend Biblioteca.dll
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.pdb
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\frontend Biblioteca.genruntimeconfig.cache
+C:\Users\juand\OneDrive\Escritorio\Final Project\frontend Biblioteca\frontend Biblioteca\obj\Debug\net6.0\ref\frontend Biblioteca.dll

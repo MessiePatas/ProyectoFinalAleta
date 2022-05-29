@@ -1,0 +1,90 @@
+﻿@page "/Prestamo"
+
+@inject HttpClient _client;
+
+@using System.Net.Http.Json
+@using Biblioteca.Api.Modelo
+@using frontend_Biblioteca.Data
+<MudButton OnClick="(args) => AgregarNuevoRegistro()" Variant="Variant.Filled" Color="Color.Primary">Añadir</MudButton>
+
+<MudDataGrid T="Prestamo" Items="@Prestamos" ReadOnly="@_readOnly" EditMode="@(_isCellEditMode ? DataGridEditMode.Cell : DataGridEditMode.Form)"
+    StartedEditingItem="@StartedEditingItem" CancelledEditingItem="@CancelledEditingItem" CommittedItemChanges="@CommittedItemChanges"
+    Bordered="true" Dense="true" EditTrigger="@(_editTriggerRowClick ? DataGridEditTrigger.OnRowClick : DataGridEditTrigger.Manual)">
+    <Columns>
+        <Column T="Prestamo" Field="Numero" Title="Numero" IsEditable="false" />
+        <Column T="Prestamo" Field="Libro" />
+        <Column T="Prestamo" Field="Estudiante" />
+        <Column T="Prestamo" Field="iDestudiante" />
+        <Column T="Prestamo" Field="Fecha" Title="Fecha" />
+        <Column T="Prestamo" Hidden="@(_isCellEditMode || _readOnly || _editTriggerRowClick)" CellClass="d-flex justify-end">
+            <CellTemplate>
+                <MudIconButton Size="@Size.Small" Icon="@Icons.Outlined.Edit" OnClick="@context.Actions.StartEditingItem" />
+                <MudIconButton Size="@Size.Small" Icon="@Icons.Outlined.Delete" OnClick="(args)=> EliminarEvento(context.Item)" />
+            </CellTemplate>
+        </Column>
+    </Columns>
+</MudDataGrid>
+
+
+
+@code {
+    private IEnumerable<Prestamo> Prestamos = new List<Prestamo>();
+    private bool _readOnly;
+    private bool _isCellEditMode;
+    private List<string> _events = new();
+    private bool _editTriggerRowClick;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var elemento = new List<Prestamo>();
+        _client.BaseAddress = new Uri("https://localhost:7174/");
+
+        var requestMessage = new HttpRequestMessage(HttpMethod.Get, "Biblioteca/ConsultarPrestamo");
+        var respuesta = await _client.SendAsync(requestMessage);
+
+        if(respuesta.StatusCode == System.Net.HttpStatusCode.OK)
+        {
+            var responseBody = await respuesta.Content.ReadAsStringAsync();
+            var listasPrestamo = System.Text.Json.JsonSerializer.Deserialize<List<Prestamo>>(responseBody);
+            Prestamos = listasPrestamo;
+        }
+
+
+    }
+
+    void EliminarEvento(Prestamo item)
+    {
+        ((List<Prestamo>)Prestamos).Remove(item);
+        StateHasChanged();
+    }
+
+    void AgregarNuevoRegistro()
+    {
+        var elemento = new Prestamo
+            {
+               Numero = 1,
+               Libro = "BANDIDOLOGIA",
+               Estudiante = "Juan David Martinez",
+               iDestudiante = 2,
+               Fecha = 2022
+            };
+        ((List<Prestamo>)Prestamos).Add(elemento);
+        StateHasChanged();
+    }
+    // events
+    void StartedEditingItem(Prestamo item)
+    {
+        _events.Insert(0, $"Event = StartedEditingItem, Data = {System.Text.Json.JsonSerializer.Serialize(item)}");
+    }
+
+    void CancelledEditingItem(Prestamo item)
+    {
+        _events.Insert(0, $"Event = CancelledEditingItem, Data = {System.Text.Json.JsonSerializer.Serialize(item)}");
+    }
+    //Este servirá para guardar o actualizar registros.
+    void CommittedItemChanges(Prestamo item)
+    {
+        _events.Insert(0, $"Event = CommittedItemChanges, Data = {System.Text.Json.JsonSerializer.Serialize(item)}");
+        StateHasChanged();
+    }
+}
